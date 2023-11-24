@@ -94,7 +94,8 @@ una vez en la página de inicio ir a la pestaña de añadir tarjeta en el perfil
 Flujos Alternativos:
 
 *el usuario tiene que crear una cuenta si no tiene una
-*el usuario debe marcar a su banco si el proceso de tokenización falla
+*el usuario debe marcar a su banco si el proceso de tokenización falla 
+*el usuario debe llenar los formularios que requiere la aplicación
 
 ### Los estudiantes acumulan puntos proporcionales al monto de sus pedidos y que sean canjeables por bebidas o platillos para promover el consumo de la cafeteria por encima de otras opciones
 >*Prioridad baja*
